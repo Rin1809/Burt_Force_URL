@@ -1,0 +1,11 @@
+ # Môi trường ảo
+ moitruongao/
+ venv/
+ .env
+ __pycache__/
+
+ # Các file hệ thống khác
+ *.pyc
+ *.log
+ *.DS_Store  # Dành cho macOS
+
