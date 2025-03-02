@@ -1,4 +1,4 @@
-# ⚡️ Burt Force URL Checker
+# ⚡️ Burt Force URL Checker ᓚᘏᗢ
 
 <details>
 <summary>🇻🇳 Tiếng Việt</summary>
